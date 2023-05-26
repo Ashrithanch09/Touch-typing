@@ -18,7 +18,7 @@
 
 To install all the dependences of the project, run the following command:
 
-    git clone (https://github.com/shakti1590/ChaabiAssignment.git)
+    git clone https://github.com/shakti1590/ChaabiAssignment.git
     npm install
     npm start
 
