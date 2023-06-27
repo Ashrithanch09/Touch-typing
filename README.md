@@ -24,7 +24,7 @@ To install all the dependencies of the project, run the following command:
 
 
 #### Source Code:
- - Link: https://github.com/shakti1590/ChaabiAssignment
+ - Link: https://github.com/shakti1590/Touch-typing
 
 
 #### Deployment Link:
