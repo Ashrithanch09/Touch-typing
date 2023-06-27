@@ -1,4 +1,4 @@
-## Chaabi Assignment
+
 
 #### Problem statement:
  - Build a web-based application for touch typing.
@@ -16,19 +16,19 @@
 
  ## Install
 
-To install all the dependences of the project, run the following command:
+To install all the dependencies of the project, run the following command:
 
-    git clone https://github.com/shakti1590/ChaabiAssignment.git
+    git clone https://github.com/shakti1590/Touch-typing.git
     npm install
     npm start
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/ChaabiAssignment
+ - Link: https://github.com/shakti1590/ChaabiAssignment
 
 
 #### Deployment Link:
- - Link : https://chaabi-assignment-mauve.vercel.app/
+ - Link: https://touch-typing-shakti1590.vercel.app/
 
 
 
